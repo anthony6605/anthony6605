@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anh Le</h1>
-<h3 align="center">A Data Engineer and Data Sciencetist From Augustana College</h3>
+<h3 align="center">A Data Engineer From Augustana College</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
